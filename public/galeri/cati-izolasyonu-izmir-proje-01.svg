@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#cceff7"/>
+  <rect x="100" y="200" width="600" height="300" rx="8" fill="#008cab" opacity="0.3"/>
+  <path d="M150 450 L400 250 L650 450" stroke="#006980" stroke-width="4" fill="none"/>
+  <rect x="350" y="320" width="100" height="130" fill="#004656" opacity="0.5"/>
+  <text x="400" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#006980">Cati Izolasyonu - Izmir</text>
+</svg>

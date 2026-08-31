@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#99dfef"/>
+  <ellipse cx="400" cy="350" rx="250" ry="150" fill="#008cab" opacity="0.4"/>
+  <ellipse cx="400" cy="350" rx="200" ry="120" fill="#40E0D0" opacity="0.3"/>
+  <text x="400" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#006980">Havuz Izolasyonu - Cesme</text>
+</svg>

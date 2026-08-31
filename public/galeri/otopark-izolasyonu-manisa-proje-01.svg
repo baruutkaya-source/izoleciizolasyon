@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#2d3748"/>
+  <rect x="50" y="300" width="700" height="250" fill="#4a5568"/>
+  <rect x="100" y="350" width="150" height="80" rx="4" fill="#008cab" opacity="0.5"/>
+  <rect x="300" y="350" width="150" height="80" rx="4" fill="#008cab" opacity="0.5"/>
+  <rect x="500" y="350" width="150" height="80" rx="4" fill="#008cab" opacity="0.5"/>
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#cceff7">Otopark Izolasyonu - Manisa</text>
+</svg>

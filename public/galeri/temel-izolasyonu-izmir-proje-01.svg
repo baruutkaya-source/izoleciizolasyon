@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#004656"/>
+  <rect x="150" y="100" width="500" height="400" fill="#006980" opacity="0.5"/>
+  <rect x="200" y="150" width="400" height="300" fill="#008cab" opacity="0.3"/>
+  <line x1="150" y1="200" x2="650" y2="200" stroke="#40E0D0" stroke-width="3"/>
+  <line x1="150" y1="300" x2="650" y2="300" stroke="#40E0D0" stroke-width="3"/>
+  <line x1="150" y1="400" x2="650" y2="400" stroke="#40E0D0" stroke-width="3"/>
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#cceff7">Temel Izolasyonu - Izmir</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#edf2f7"/>
+  <rect x="100" y="350" width="600" height="200" fill="#cbd5e0"/>
+  <rect x="150" y="380" width="500" height="140" fill="#008cab" opacity="0.2"/>
+  <line x1="100" y1="350" x2="700" y2="350" stroke="#006980" stroke-width="4"/>
+  <text x="400" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#006980">Zemin Izolasyonu - Aydin</text>
+</svg>
