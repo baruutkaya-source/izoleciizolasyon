@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title,
     description,
-    keywords: service.keywords,
+    keywords: [...service.keywords],
     alternates: {
       canonical: `${siteConfig.url}/hizmetler/${service.id}`,
     },

@@ -1,6 +1,7 @@
 import { ImageResponse } from "next/og";
 import { siteConfig } from "@/data/site";
 
+export const dynamic = "force-static";
 export const alt = "İzoleci İzolasyon - Sıvı İzolasyon Hizmetleri";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";

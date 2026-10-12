@@ -85,8 +85,8 @@ export const regions = {
 };
 
 export const references = [
-  { id: "folkart", name: "Folkart", logo: "/referanslar/folkart-logo-png_seeklogo-409315.png" },
-  { id: "oyak-insaat", name: "Oyak İnşaat", logo: "/referanslar/Oyak-inşaat.png" },
+  { id: "folkart", name: "Folkart", logo: "/referanslar/folkart-logo.png" },
+  { id: "oyak-insaat", name: "Oyak İnşaat", logo: "/referanslar/oyak-insaat-logo.png" },
 ] as const;
 
 export type Service = (typeof services)[number];
